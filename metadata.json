@@ -1,0 +1,8 @@
+{
+  "name": "Fair Oaks Fine Arts Printhouse",
+  "description": "Atelier for museum-grade giclée fine art printing, archival paper reproductions, custom conservation framing, and high-resolution art digitization.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
